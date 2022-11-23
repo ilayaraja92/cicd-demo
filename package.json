@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://git-codecommit.ap-south-1.amazonaws.com/v1/repos/eks-cicd-demo"
+    "url": "https://github.com/ilayaraja92/cicd-demo"
   },
   "keywords": [
     "node"
